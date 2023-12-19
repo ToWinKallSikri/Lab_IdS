@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a705a64b-d23f-4256-af78-075dd6b53e62" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Lab_IdS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unicam/src/main/java/unicam/UI/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unicam/src/main/java/unicam/UI/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unicam/src/main/resources/Interface.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestJavaFX/src/main/java/com/unicam/testjavafx/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestJavaFX/src/main/java/com/unicam/testjavafx/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestJavaFX/src/main/resources/com/unicam/testjavafx/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/TestJavaFX/src/main/resources/com/unicam/testjavafx/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unicam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/unicam/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unicam/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/unicam/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/unicam/src/test/java/com/unicam/RestFulWebSefviceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/unicam/src/test/java/com/unicam/RestFulWebServiceApplicationTests.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2ZlaKPtHQEB0AHbt4rPBQCSycon" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Twinkal/OneDrive/Documenti/GitHub/Lab_IdS&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a705a64b-d23f-4256-af78-075dd6b53e62" name="Changes" comment="" />
+      <created>1702999054957</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1702999054957</updated>
+      <workItem from="1702999056072" duration="68000" />
+      <workItem from="1703000070739" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

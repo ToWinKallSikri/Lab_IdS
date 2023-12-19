@@ -1,4 +1,4 @@
-package com.unicam.testjavafx;
+package unicam.UI;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Button;
@@ -8,7 +8,7 @@ import javafx.scene.effect.Effect;
 
 //ci riportiamo dentro, tutti gli elementi che abbiamo creato nel file fxml (stessa tipologia), es Label welcomeText
 // quindi ho bisogno dello stesso id nello scene builder
-public class HelloController {
+public class Controller {
     @FXML
     private Label welcomeText;
 
@@ -27,9 +27,9 @@ public class HelloController {
         System.out.println("Mouse over");
     }
 
-     @FXML
+    @FXML
     private void onMouseExit() {
-         button.setEffect(null);
-         System.out.println("Mouse exit");
-     }
+        button.setEffect(null);
+        System.out.println("Mouse exit");
+    }
 }
