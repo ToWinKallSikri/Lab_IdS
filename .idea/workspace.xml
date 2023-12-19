@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="a705a64b-d23f-4256-af78-075dd6b53e62" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Lab_IdS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unicam/src/main/java/unicam/UI/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unicam/src/main/java/unicam/UI/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/unicam/src/main/resources/Interface.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestJavaFX/src/main/java/com/unicam/testjavafx/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/TestJavaFX/src/main/java/com/unicam/testjavafx/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestJavaFX/src/main/resources/com/unicam/testjavafx/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/TestJavaFX/src/main/resources/com/unicam/testjavafx/hello-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unicam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/unicam/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unicam/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/unicam/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unicam/src/test/java/com/unicam/RestFulWebSefviceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/unicam/src/test/java/com/unicam/RestFulWebServiceApplicationTests.java" afterDir="false" />
+    <list default="true" id="a705a64b-d23f-4256-af78-075dd6b53e62" name="Changes" comment="[add&amp;update]">
+      <change afterPath="$PROJECT_DIR$/demo/src/main/resources/templates/login.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,17 +33,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Twinkal/OneDrive/Documenti/GitHub/Lab_IdS&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Twinkal/OneDrive/Documenti/GitHub/Lab_IdS/demo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -56,10 +61,25 @@
       <updated>1702999054957</updated>
       <workItem from="1702999056072" duration="68000" />
       <workItem from="1703000070739" duration="8000" />
+      <workItem from="1703000096019" duration="540000" />
     </task>
+    <task id="LOCAL-00001" summary="[add&amp;update]">
+      <option name="closed" value="true" />
+      <created>1703000305108</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1703000305108</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="[JavaFX]" />
+    <MESSAGE value="[add&amp;update]" />
+    <option name="LAST_COMMIT_MESSAGE" value="[add&amp;update]" />
   </component>
 </project>

@@ -5,19 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0f4664be-0a65-424e-be97-e6ed78153262" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/Lab_IdS.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unicam/UI/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/unicam/UI/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Interface.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestJavaFX/src/main/java/com/unicam/testjavafx/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../TestJavaFX/src/main/java/com/unicam/testjavafx/HelloController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestJavaFX/src/main/resources/com/unicam/testjavafx/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestJavaFX/src/main/resources/com/unicam/testjavafx/hello-view.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/templates/admin.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/templates/login.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/UnicamSecurity/demo/MvcConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/UnicamSecurity/demo/MvcConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/java/com/UnicamSecurity/demo/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/java/com/UnicamSecurity/demo/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/src/main/resources/templates/hello.html" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/src/main/resources/templates/hello.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/unicam/RestFulWebSefviceApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/unicam/RestFulWebServiceApplicationTests.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +70,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Twinkal/OneDrive/Documenti/GitHub/Lab_IdS",
+    "last_opened_file_path": "C:/Users/Twinkal/OneDrive/Documenti/GitHub/Lab_IdS/unicam",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -184,6 +178,8 @@
       <workItem from="1702552173431" duration="51000" />
       <workItem from="1702552247653" duration="498000" />
       <workItem from="1702999027620" duration="548000" />
+      <workItem from="1703000059490" duration="593000" />
+      <workItem from="1703002561024" duration="303000" />
     </task>
     <servers />
   </component>
